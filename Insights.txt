@@ -3,7 +3,7 @@ INSIGHTS:
 1. The maximum number of products were sold under the category "Fashion accessories" with sale of '178' units.
 2. The minimum number of products were sold under the category "Health and beauty" with sale of '152' units.
 3. The price of the product is high for "Fashion accessories"  which costs around '57.16' per unit.
-4. The proce of the product is low for "Electronic accessories" which costs around '53.50' per unit.
+4. The price of the product is low for "Electronic accessories" which costs around '53.50' per unit.
 5. The Number of sale is higher in "Yangon" region which sold 340 products and Number of sale is lower in "Naypyitaw" region which sold around 328 products.
 6.  The Total cost genereated by "Food and bevarages" is high with a Total cost of '56,145', and Total cost genereated by "Health and beauty" products is low with a Total cost of '49.194'.
 7. Most Number of Purchases were happend through 'Ewallet' with 345 purchases , 344 Purchases through 'Cash' and 311 purchases through 'Credit Card'.
