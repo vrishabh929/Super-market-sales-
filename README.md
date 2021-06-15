@@ -5,3 +5,5 @@ The growth of supermarkets in most populated cities are increasing and market co
 Data Source : https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 Kaggle Notebook : https://www.kaggle.com/vrajeshbabu/super-market-sales-data-wrangling
+
+Tools used : Microsoft Excel, Microsoft SQL Server, Tableau, Python
